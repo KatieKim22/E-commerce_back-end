@@ -25,4 +25,5 @@ To deploy this project run
 
 
 ## 🔗 Links
-[[video](https://drive.google.com/file/d/10GpR1Hfoz2EUKJX09heKN75k369dhcck/view)
+[[video]
+https://drive.google.com/file/d/10GpR1Hfoz2EUKJX09heKN75k369dhcck/view
